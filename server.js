@@ -28,7 +28,7 @@ db.sequelize.sync();
 
 // simple route
 app.get("/", (req, res) => {
-  res.json({ message: "It's work." });
+  res.json({ message: "Update's work." });
 });
 
 // routes
