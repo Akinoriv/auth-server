@@ -1,5 +1,5 @@
 module.exports = {
-  HOST: "akinoriv.com",
+  HOST: "localhost",
   USER: "root",
   PASSWORD: "my_root1",
   DB: "testdb",
