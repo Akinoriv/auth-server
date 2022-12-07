@@ -1,5 +1,5 @@
 module.exports = {
-  HOST: "akinoriv.com",
+  HOST: "3.122.163.23",
   USER: "root",
   PASSWORD: "my_root1",
   DB: "authbd",
