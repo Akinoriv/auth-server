@@ -1,8 +1,8 @@
 module.exports = {
-  HOST: "localhost",
+  HOST: "akinoriv.com",
   USER: "root",
   PASSWORD: "my_root1",
-  DB: "testdb",
+  DB: "authbd",
   dialect: "mysql",
   pool: {
     max: 5,
