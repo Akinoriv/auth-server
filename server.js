@@ -4,7 +4,7 @@ const cors = require("cors");
 const app = express();
 
 var corsOptions = {
-  origin: "http://localhost:8081",
+  origin: "http://akinoriv.com:8081",
 };
 
 app.use(cors(corsOptions));
